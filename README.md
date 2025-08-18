@@ -41,6 +41,7 @@ I am very responsible, able to learn quickly, patient, nonconflict and tactful.
 * [Minesweeper](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/minesweeper/)
 * [RS-Selectors](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/RS-Selectors/)
 * [Async race](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/Async-race/) - to see how this app works you need to launch a server first. Please find the instruction in this projects description [project # 4](https://github.com/OljaBarovskaya/Rolling-Scopes-School-JSFE2023Q1)
+* [CSS-Bayan](https://oljabarovskaya.github.io/cssBayan/cssBayan/)
 
 **Languages:**
 ---------------------------
