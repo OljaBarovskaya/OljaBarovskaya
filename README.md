@@ -4,10 +4,10 @@
 **Contact information:**
 ==================
 
-Phone: +375292883985 
-E-mail: asdfg1234_08@mail.ru 
-Discord: oliabarovskaya (oljabarovskaya)#1515 
-LinkedIn: [Olga Barovskaya](https://www.linkedin.com/in/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0-%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F-b29067134/)
+Phone: +375292883985  
+E-mail: asdfg1234_08@mail.ru   
+Discord: oliabarovskaya (oljabarovskaya)#1515   
+LinkedIn: [Olga Barovskaya](https://www.linkedin.com/in/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0-%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F-b29067134/)  
  
 
 **About myself:**
