@@ -20,6 +20,7 @@ I am very responsible, able to learn quickly, patient, nonconflict and tactful.
 
 * HTML5 
 * CSS3
+* SCSS
 * JavaScript
 * Typescript
 * Webpack
