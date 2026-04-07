@@ -25,17 +25,25 @@ I am very responsible, able to learn quickly, patient, nonconflict and tactful.
 * Typescript
 * Webpack
 * Git
+* React
+* Tailiwind
+* React Forms
+* Tanstack Query
+* Vercel
 
 **Education and job experience:**
 --------------------------
 
 * BSEU university, bachelor degree, International Econimic Relationships faculty, Business administration speciality (2012-2016); 
 * Specialist in export cargo transportation (2016 – 2025 February);
-* Rolling Scopes School, Frontend course (2022 - 2023).
+* Rolling Scopes School, Frontend course (2022 - 2023)
+* Internship at iTechArt Group (2025 October - present)
 
 **Projects:**
 --------------------------
 
+* [Weather Dashboard](https://internshiptask3-six.vercel.app/)
+* [Bank Vault Robbery Game](https://oljabarovskaya.github.io/Internship_Task2/)
 * [Shelter](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/shelter/pages/main/)
 * [Virtual Keyboard](https://oljabarovskaya.github.io/virtual-keyboard/)
 * [Logistic Website](https://oljabarovskaya.github.io/logistics-web-site/)
