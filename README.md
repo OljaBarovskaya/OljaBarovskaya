@@ -42,15 +42,15 @@ I am very responsible, able to learn quickly, patient, nonconflict and tactful.
 **Projects:**
 --------------------------
 
-* [Weather Dashboard](https://internshiptask3-six.vercel.app/)
-* [Bank Vault Robbery Game](https://oljabarovskaya.github.io/Internship_Task2/)
-* [Shelter](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/shelter/pages/main/)
-* [Virtual Keyboard](https://oljabarovskaya.github.io/virtual-keyboard/)
-* [Logistic Website](https://oljabarovskaya.github.io/logistics-web-site/)
+* [Weather Dashboard](https://internshiptask3-six.vercel.app/) - React, Typescript, Vercel, Vite, React Forms, Tanstack Query, Open Weather API and Hugging Face API, styled components, Tailwind
+* [Bank Vault Robbery Game](https://oljabarovskaya.github.io/Internship_Task2/) - Typescript
+* [Shelter](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/shelter/pages/main/) - Javascript, HTML, CSS
+* [Virtual Keyboard](https://oljabarovskaya.github.io/virtual-keyboard/) - Javascript, HTML, CSS
+* [Logistic Website](https://oljabarovskaya.github.io/logistics-web-site/) - Javascript, HTML, CSS
 * [Minesweeper](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/minesweeper/)
 * [RS-Selectors](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/RS-Selectors/)
 * [Async race](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/Async-race/) - to see how this app works you need to launch a server first. Please find the instruction in this projects description [project # 4](https://github.com/OljaBarovskaya/Rolling-Scopes-School-JSFE2023Q1)
-* [CSS-Bayan](https://oljabarovskaya.github.io/cssBayan/cssBayan/)
+* [CSS-Bayan](https://oljabarovskaya.github.io/cssBayan/cssBayan/) - HTML and CSS only
 
 **Languages:**
 ---------------------------
