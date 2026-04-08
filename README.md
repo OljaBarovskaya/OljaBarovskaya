@@ -47,9 +47,9 @@ I am very responsible, able to learn quickly, patient, nonconflict and tactful.
 * [Shelter](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/shelter/pages/main/) - Javascript, HTML, CSS
 * [Virtual Keyboard](https://oljabarovskaya.github.io/virtual-keyboard/) - Javascript, HTML, CSS
 * [Logistic Website](https://oljabarovskaya.github.io/logistics-web-site/) - Javascript, HTML, CSS
-* [Minesweeper](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/minesweeper/)
-* [RS-Selectors](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/RS-Selectors/)
-* [Async race](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/Async-race/) - to see how this app works you need to launch a server first. Please find the instruction in this projects description [project # 4](https://github.com/OljaBarovskaya/Rolling-Scopes-School-JSFE2023Q1)
+* [Minesweeper](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/minesweeper/) - Javascript, HTML, CSS
+* [RS-Selectors](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/RS-Selectors/) - Javascript, HTML, CSS
+* [Async race](https://oljabarovskaya.github.io/Rolling-Scopes-School-JSFE2023Q1/Async-race/) - to see how this app works you need to launch a server first. Please find the instruction in this projects description [project # 4],(https://github.com/OljaBarovskaya/Rolling-Scopes-School-JSFE2023Q1) - Typescript, HTML, CSS
 * [CSS-Bayan](https://oljabarovskaya.github.io/cssBayan/cssBayan/) - HTML and CSS only
 
 **Languages:**
