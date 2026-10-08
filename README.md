@@ -1,4 +1,4 @@
-#### Beginning Frontend Developer 
+#### Frontend Developer 
 
  
 **Contact information:**
